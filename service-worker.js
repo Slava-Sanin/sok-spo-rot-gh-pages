@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sok-spo-rot-gh-pages/precache-manifest.7fe44c34c9a0feac35d09eac7bd470f0.js"
+  "/sok-spo-rot-gh-pages/precache-manifest.902e70b931829bb022c917878b8442f3.js"
 );
 
 self.addEventListener('message', (event) => {
