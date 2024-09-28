@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc875943a39b899cc5abec4a089ee691",
+    "revision": "32547bd1c56040ad3f30a420ec17d2ee",
     "url": "/sok-spo-rot-gh-pages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sok-spo-rot-gh-pages/static/css/2.7d86e4e7.chunk.css"
   },
   {
-    "revision": "c458f4bb0b12ebe10e7c",
+    "revision": "9d7386fbc4dd9167fd66",
     "url": "/sok-spo-rot-gh-pages/static/css/main.e4320e4a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sok-spo-rot-gh-pages/static/js/2.9b265b45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c458f4bb0b12ebe10e7c",
-    "url": "/sok-spo-rot-gh-pages/static/js/main.8caf0d6f.chunk.js"
+    "revision": "9d7386fbc4dd9167fd66",
+    "url": "/sok-spo-rot-gh-pages/static/js/main.9e46f2e6.chunk.js"
   },
   {
     "revision": "b77666b6d005725f8820",
